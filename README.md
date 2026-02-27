@@ -35,7 +35,7 @@
 >> [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 >
 >##### Languages
->> ![Python](https://img.shields.io/badge/Python-8_years-gray?style=flat-square&logo=python&labelColor=f6c94d)
+>> ![Python](https://img.shields.io/badge/Python-7_years-gray?style=flat-square&logo=python&labelColor=f6c94d)
 >> ![Java](https://img.shields.io/badge/Java-2_years-gray?style=flat-square&logo=openjdk&logoColor=fd9833&labelColor=49819f) 
 >> ![Swift](https://img.shields.io/badge/Swift-1_year-gray?style=flat-square&logo=swift&logoColor=white&labelColor=c1392c) 
 >> 
